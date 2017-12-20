@@ -1,0 +1,119 @@
+// These are the styles to make some of the templates look extra nice.
+// Feel free to remove these styles for production!
+
+// Body Styles 
+body,
+html, 
+.body {
+  background: #f3f3f3 !important;
+}
+
+a {
+  font-weight: bold;
+}
+
+.image-full {
+  width: 85% !important;
+//  border-top: 1px #064727 solid;
+//  border-bottom: 1px #064727 solid;
+}
+
+.container.header {
+  background: #f3f3f3;
+}
+
+.container.green-panel {
+  background: #064727;
+}
+
+.body-drip {
+  border-top: 8px solid #064727;
+}
+
+// Full Width Headers
+.header {
+  background: #064727;
+  // background: #8a8a8a;
+}
+
+.header .columns {
+  padding-bottom: 0;
+}
+
+.header p {
+  color: #fff;
+  padding-top: 15px;
+  font-size: 11px;
+}
+
+.header a {
+  color: #fff;
+  padding-top: 15px;
+  font-size: 11px;
+}
+
+.header .wrapper-inner {
+  padding: 0px;
+}
+
+.header .container {
+  background: transparent;
+}
+
+// Green Panel
+
+.green-panel {
+  background: #064727;
+  // background: #8a8a8a;
+}
+
+.green-panel .columns {
+  padding-top: 15px;
+  padding-bottom: 0px;
+}
+
+.green-panel p {
+  color: #fff;
+  font-size: 12px;
+}
+.green-panel h5 {
+  color: #fff;
+  padding-top: 5px;
+}
+
+.green-panel h4 {
+  color: #fff;
+  padding-top: 5px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+}
+
+.green-panel .wrapper-inner {
+  padding: 0px;
+}
+
+.green-panel .container {
+  background: transparent;
+}
+
+// Social Media
+table.button.facebook table td {
+  background: #3B5998 !important;
+  border-color: #3B5998;
+}
+
+table.button.twitter table td {
+  background: #1daced !important;
+  border-color: #1daced;
+}
+
+table.button.google table td {
+  background: #DB4A39 !important;
+  border-color: #DB4A39;
+}
+
+.wrapper.secondary {
+  background: #f3f3f3;
+}
+
+
